@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-node-app",
+  "version": "1.0.0",
+  "description": "Node.js App for Jenkins CI/CD Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ganesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
